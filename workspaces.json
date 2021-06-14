@@ -1,0 +1,40 @@
+{
+    "personalizedPriorities": [
+        {
+            "priorityTitle": "Test BI2",
+            "priorityId": "a32K0000000hc5rIAA",
+            "actionItems": [
+                {
+                    "status": "Open",
+                    "lastUpdateDate": "2021-06-09",
+                    "createdDate": "2021-03-25",
+                    "actionItemName": "Test Title 2",
+                    "actionItemId": "a7SK0000000IUQFMA4",
+                    "actionItemDescription": "This is description 2"
+                },
+                {
+                    "status": "Open",
+                    "lastUpdateDate": "2021-06-09",
+                    "createdDate": "2021-06-09",
+                    "actionItemName": "Schedule another Inquiry",
+                    "actionItemId": "a7SK0000000BBooMAG",
+                    "actionItemDescription": "Please schedule another Inquiry in August"
+                }
+            ]
+        },
+        {
+            "priorityTitle": "Test BI1",
+            "priorityId": "a32K0000000hc5mIAA",
+            "actionItems": [
+                {
+                    "status": "Open",
+                    "lastUpdateDate": "2021-06-09",
+                    "createdDate": "2021-03-18",
+                    "actionItemName": "Test Title 1",
+                    "actionItemId": "a7SK0000000IOSzMAO",
+                    "actionItemDescription": "This is Description for Test Title 1"
+                }
+            ]
+        }
+    ]
+}
